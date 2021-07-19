@@ -4,8 +4,11 @@ This repository has the API that I create for job search using  functional progr
 
 ### Pre-requisites
 IntelliJ IDE
+
 Junit
+
 Jcommander
+
 FeingCore Gson
 
 ### Version
